@@ -10,4 +10,5 @@ public class Api2Application {
 		SpringApplication.run(Api2Application.class, args);
 	}
 
+	//User user = new User(1, "valdir", "email@mail.com", "123");
 }
